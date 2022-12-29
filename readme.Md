@@ -1,6 +1,6 @@
 ### Neu-Js
 
-A JS runtime build on Rust, Which is same us Deno Runtime. The aim of the project is to try experiment feature proposals of TC39.
+A JS runtime build on Rust, Which is same as Deno Runtime. The aim of the project is to try experiment feature proposals from TC39.
 
 ## Planing
 
