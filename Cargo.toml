@@ -1,7 +1,11 @@
 [package]
-name = "neujs"
+name = "neu-js"
+description = "Simple JavaScript runtime build on Rust (deno, for experiment purpose)"
 version = "0.1.0"
 edition = "2021"
+license = "MIT"
+repository = "https://github.com/sachin-philip/neu-js"
+
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 

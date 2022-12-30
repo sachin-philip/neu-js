@@ -317,7 +317,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "neujs"
+name = "neu-js"
 version = "0.1.0"
 dependencies = [
  "deno_core",
